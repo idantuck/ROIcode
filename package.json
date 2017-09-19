@@ -1,0 +1,22 @@
+{
+  "name": "roicode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "inflationary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idantuck/ROIcode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idantuck/ROIcode/issues"
+  },
+  "homepage": "https://github.com/idantuck/ROIcode#readme",
+  "devDependencies": {
+    "qunitjs": "^2.4.0"
+  }
+}
